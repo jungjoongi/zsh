@@ -1,4 +1,4 @@
-echo "source ~/.zshrc"
+#echo "source ~/.zshrc"
 source ~/.zshrc
 
 echo "git -C ~/script/zshrc pull"
