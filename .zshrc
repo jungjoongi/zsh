@@ -124,5 +124,6 @@ alias vim="nvim"
 alias vi="nvim"
 alias vimdiff="nvim -d"
 alias sz="source ~/.zshrc"
+alias test="echo 'test'"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
