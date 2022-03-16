@@ -1,5 +1,5 @@
-#echo "source ~/.zshrc"
-source ~/.zshrc
+echo "source ~/.zshrc"
+#exec $SHELL
 
 echo "git -C ~/script/zshrc pull"
 git -C ~/script/zshrc pull
